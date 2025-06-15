@@ -75,6 +75,11 @@ Voxa/
 
 ## ⚙️ Installation Guide
 
+Clone the repository:
+```bash
+  git clone https://github.com/Bitwise-AR/Voxa.git
+```
+
 ### 📦 Backend (Spring Boot)
 
 ```bash
