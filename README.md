@@ -6,25 +6,13 @@ Voxa is a full-stack intelligent email assistant powered by **Spring Boot**, **R
 
 ## 🚀 Features
 
-### 🌐 Backend (Spring Boot)
-- JWT-based Authentication
-- Login / Signup
-- Email verification
-- Password reset via OTP
-- Secure cookie handling
-- MySQL integration for user data
-
-### 💻 Frontend (React + Vite)
-- Modern responsive UI
-- React Hooks and React Router
-- Axios integration for API communication
-- Real-time feedback and alerts
-
-### 🔌 Chrome Extension (Voxa Extension)
-- Injects reply suggestions in Gmail
-- Sleek and intuitive assistant popup
-- Uses the same smart backend for reply generation
-- Easy one-click installation
+- 🧠 Smart Reply Generator: Uses Google's Gemini API to generate intelligent email replies directly in Gmail
+- 💡 Chrome Extension Integration: Seamless UI embedded into Gmail through a lightweight extension
+- ⚛️ React Frontend: Built with React + Vite, using hooks, routing, and Axios for backend communication
+- 🛠️ Spring Boot Backend: Handles API routing and Gemini AI response logic using Java
+- 📬 Gmail Context Awareness: Extension reads email content for personalized reply suggestions
+- 🔐 Secure API Handling: APIs are well-structured and protected from unauthorized access
+- ⚙️ Modular Codebase: Clean structure for easy development, debugging, and scaling
 
 ---
 
