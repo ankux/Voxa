@@ -199,7 +199,7 @@ function App() {
               className="inline-flex items-center gap-2 text-white/60 hover:text-white transition-all duration-300 hover:scale-105 group"
             >
               <Github className="h-5 w-5 group-hover:rotate-12 transition-transform duration-300" />
-              <span className="font-medium">/ Ayush Raj</span>
+              <span className="font-medium"> Ayush Raj</span>
             </a>
           </footer>
         </div>
